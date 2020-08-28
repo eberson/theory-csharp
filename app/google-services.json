@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620650981995",
+    "firebase_url": "https://theorycsharp.firebaseio.com",
+    "project_id": "theorycsharp",
+    "storage_bucket": "theorycsharp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620650981995:android:aa1ff8239874559d685f2e",
+        "android_client_info": {
+          "package_name": "br.com.etecmatao.theorycsharp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620650981995-e4sm6d8cmj0tkjmqji2bjsd3863f9nf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.etecmatao.theorycsharp",
+            "certificate_hash": "edf0f5ca16118d74863fc43a1464ed81d3d227f1"
+          }
+        },
+        {
+          "client_id": "620650981995-v6u706q3jhnnb897p01rnrmv79r4eiie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvewdrTwZ00_geyMHu-jp5rwSrEbtcRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620650981995-v6u706q3jhnnb897p01rnrmv79r4eiie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

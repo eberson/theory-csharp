@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Theory C#</string>
+    <string name="title_exercises">Theory C# - Exercícios</string>
+    <string name="title_answer_dialog">Theory C# - Feedback</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_surname">Sobrenome</string>
+    <string name="hint_phone">Telefone</string>
+    <string name="hint_confirm_password">Confirme a senha</string>
+    <string name="hint_level">Nível</string>
+
+    <string name="cd_profile_picture">Avatar</string>
+
+    <string name="menu_exit">Sair</string>
+
+    <string name="btn_sign_in">Entrar</string>
+    <string name="btn_next">Próxima</string>
+    <string name="btn_prev">Anterior</string>
+    <string name="btn_done">Concluir</string>
+    <string name="btn_register">Cadastrar</string>
+    <string name="btn_ok">OK</string>
+
+    <string name="txt_exercise_title">Exercício %1$s</string>
+    <string name="txt_answer_a">A - %1$s</string>
+    <string name="txt_answer_b">B - %1$s</string>
+    <string name="txt_answer_c">C - %1$s</string>
+    <string name="txt_answer_d">D - %1$s</string>
+
+    <string name="lbl_not_registered">Não tem cadastro?</string>
+
+    <string name="lnk_sign_up">Cadastre-se</string>
+
+    <string name="msg_required_field">Este campo é obrigatório!</string>
+    <string name="msg_invalid_email">Este email não é válido!</string>
+    <string name="msg_answer_correct">Parabéns, você acertou!</string>
+    <string name="msg_answer_wrong">Que pena, você errou…</string>
+</resources>
